@@ -40,7 +40,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app: the challenge is to figure out what exactly the given source code is doing with the REST API
 
 ## Open-source libraries used
 
