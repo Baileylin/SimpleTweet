@@ -27,7 +27,7 @@ The following **optional** features are implemented:
 - [ ] When a user leaves the compose view without publishing and there is existing text, prompt to save or delete the draft. If saved, the draft should then be **persisted to disk** and can later be resumed from the compose view.
 - [ ] Enable your app to receive implicit intents from other apps. When a link is shared from a web browser, it should pre-fill the text and title of the web page when composing a tweet. 
 
-The following **additional** features are implemented:
+The following **additional** features are implemented: When I was trying to implement TextInputLayout, I didn't notice a syntax error in the xml code which cost me a lot of time.
 
 - [ ] List anything else that you can get done to improve the app functionality!
 
